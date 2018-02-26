@@ -1,9 +1,9 @@
 Android based Question - Answer alarm application . Build by Varad Bhatnagar and Chanchal Kumar Roshan.
 
-![Image1](image1.jpg)
+![Image1](image1.png)
 
-![Imaage2](image2.jpg)
+![Image2](image2.png)
 
-![Imaage3](image3.jpg)
+![Image3](image3.png)
 
-![Imaage4](image4.jpg)
+![Image4](image4.png)
